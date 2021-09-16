@@ -1,6 +1,6 @@
 
 
-## Machine Learning & Data Science Project --
+## Machine Learning & Data Science Project 
 # Real Estate Price Prediction Project
 
 * Built a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
